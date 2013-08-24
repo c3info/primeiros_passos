@@ -7,7 +7,7 @@ Passos com Plone, o CMS Pythonico" <http://bit.ly/155rNjr>`_ realizado em 12
 de Julho de 2013.
 
 *********************
-Instalando
+Instalação
 *********************
 
 
