@@ -1,5 +1,5 @@
 #######################################
- Primeiros Passos com Plone -Curso plone
+ Primeiros Passos com Plone -    Curso plone
 #######################################
 
 Este é o buildout utilizado durante o Hangout on Air `"Primeiros 
